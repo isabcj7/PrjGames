@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #60519B;
+    border-radius: 50%;
+    color: white;
+    }
+    
+    .container {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #31323e;
+    padding: 20px;
+    border-radius: 10px;
+    }
+    
+    .box {
+    background-color: #1e202c;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+    }
+    
+    input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: none;
+    }
+    
+    .buttons button, .pesquisar {
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    
+    .cadastrar { background-color: blue; color: white; }
+    .atualizar { background-color: gray; color: white; }
+    .excluir { background-color: red; color: white; }
+    .pesquisar { background-color: green; color: white; }
